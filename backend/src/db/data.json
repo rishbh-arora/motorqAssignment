@@ -1,0 +1,14 @@
+{
+    "brands": [
+      { "name": "Toyota" },
+      { "name": "Honda" }
+    ],
+    "models": [
+      { "name": "Corolla", "brandId": 1 },
+      { "name": "Civic", "brandId": 2 }
+    ],
+    "vehicles": [
+      { "name": "Corolla SE", "phone": "1234567890", "location": "New York", "modelID": 1 },
+      { "name": "Civic EX", "phone": "0987654321", "location": "Los Angeles", "modelID": 2 }
+    ]
+  }

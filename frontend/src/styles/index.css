@@ -1,0 +1,38 @@
+@import 'primeicons/primeicons.css';
+
+.menu {
+    display: flex;
+    justify-content: center;
+}
+
+.mainDrop {
+    width: 75%;
+}
+
+.mainMenu {
+    width: 25%;
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+.panel {
+    width: 100%;
+}
+
+.filters {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    margin: 2vh;
+}
+
+form {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+}
